@@ -68,7 +68,9 @@ I'm currently doing my MCA and building a portfolio of real analysis projects.
 I'm open to data, automation, and BI visualization projects, and to Data Analyst roles.
 
 📩 Email: piyushkaushik121@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/piyush-kaushik-4b9863381/
+
 ---
 
 ## 🎯 Fun Fact
