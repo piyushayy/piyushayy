@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Piyush 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Delhi NCR | MCA @ GGSIPU</h3>
+<h3 align="center">Aspiring Data Analyst | Delhi NCR |</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+insights;SQL+%7C+Python+%7C+Tableau+%7C+Excel;Open+to+Data+Analyst+roles" alt="Typing SVG" />
